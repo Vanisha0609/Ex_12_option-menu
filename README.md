@@ -3,7 +3,9 @@
 ## AIM:
 To create a option menu to display menu items using Android Studio.
 
+
 ## EQUIPMENTS REQUIRED:
+
 Latest Version Android Studio
 
 ## ALGORITHM:
